@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "name": "zapatitos",
+      "price": "29.99",
+      "description": "Bellos zapatos antiguos para Hipsters.",
+      "image": "https://i.ibb.co/4j85tBM/shoes.jpg",
+      "stars": "5",
+      "id": 1
+    },
+    {
+      "name": "Pantalón",
+      "price": 49.99,
+      "description": "Pantalón de moto para evitar heridas.",
+      "image": "https://i.ibb.co/6nnVkNY/pantalon.jpg",
+      "stars": "2",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Cuaderno de colores",
+      "price": 7.25,
+      "description": "Excelente cuaderno para que apuntes tus clases.",
+      "stars": 3.5,
+      "image": "https://i.ibb.co/Jr3FHVd/cuaderno.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Jarabe marca blanca",
+      "price": 12.5,
+      "description": "No cura el COVID, pero está muy rico.",
+      "stars": 1,
+      "image": "https://i.ibb.co/mhgHWnf/jarabe.jpg"
+    },
+    {
+      "name": "Maceta de diseño",
+      "price": 9.99,
+      "description": "Maceta de diseño a precio económico.",
+      "image": "https://i.ibb.co/MZSrV6q/maceta.jpg",
+      "stars": "2",
+      "id": 7
+    },
+    {
+      "name": "Gato negro",
+      "price": 100,
+      "description": "No sé si es legal vender animales online...",
+      "image": "https://i.ibb.co/1zPPBjx/gato.jpg",
+      "stars": "5",
+      "id": 8
+    },
+    {
+      "name": "Máquina de escribir\"",
+      "price": "109,99",
+      "description": "Bonita máquina de escribir antigua.",
+      "image": "https://i.ibb.co/84zfbz0/maquina.jpg",
+      "stars": "4,2",
+      "id": 9
+    },
+    {
+      "name": "Lapiceros de colores",
+      "price": "1,99",
+      "description": "Estupendos bolígrafos de colores.",
+      "image": "https://i.ibb.co/s5m7HKt/lapiceros.jpg",
+      "stars": "1",
+      "id": 10
+    }
+  ]
+}
